@@ -4,7 +4,7 @@
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/vansh2207/Intrusion-Detection-System-Python.git ( or 
+git clone https://github.com/vansh2207/Intrusion-Detection-System-Python.git ( or https://github.com/chiranshu210/Intrusion-Detection-System-Python.git)
 cd Intrusion-Detection-System-Python
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
